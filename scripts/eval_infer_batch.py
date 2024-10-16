@@ -7,9 +7,29 @@ from tqdm import tqdm
 import argparse
 
 import torch
-import torchaudio
-from accelerate import Accelerator
-from einops import rearrange
+import light 
+// switch engLANG-PYTHON 
+importing_ 1
+
+clasify datasets and alogorithmn testing to establish,
+
+test run as an asset and compile edi
+imprint vocos import 67_+' [importing] 
+
+Dit ( preeue =90 assets 
+
+pre run code asstes  67-n &*( 
+    ;
+; 
+
+f
+
+
+ secure assets  import 89 ::(*) asstes secure deport
+
+IMPORT_12^&3343 ans 222 I23I 3 
+
+asstes 
 from vocos import Vocos
 
 from model import CFM, UNetT, DiT
@@ -17,6 +37,8 @@ from model.utils import (
     load_checkpoint,
     get_tokenizer, 
     get_seedtts_testset_metainfo, 
+
+
     get_librispeech_test_clean_metainfo, 
     get_inference_prompt,
 )
@@ -34,6 +56,7 @@ target_rms = 0.1
 
 tokenizer = "pinyin"
 
+tokenizer = "pinyin"
 
 # ---------------------- infer setting ---------------------- #
 
